@@ -62,6 +62,14 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
+  assets:
+    - images/tab_activity.webp
+    - images/tab_activity_press.webp
+    - images/tab_home.webp
+    - images/tab_home_normal.webp
+    - images/tab_profile.webp
+    - images/tab_profile_normal.webp
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
